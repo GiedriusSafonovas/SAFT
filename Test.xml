@@ -1,0 +1,25 @@
+<AuditFile>
+<Header>
+</Header>
+<MasterFiles>
+<GeneralLedgerAccounts>
+<Account>
+<AccountID>1000</AccountID>
+<AccountDescription>Ilgalaikis turtas</AccountDescription>
+<OpeningDebitBalance>100</OpeningDebitBalance>
+<OpeningCreditBalance>0</OpeningCreditBalance>
+<ClosingDebitBalance>300</ClosingDebitBalance>
+<ClosingCreditBalance>0</ClosingCreditBalance>
+<Test/>
+</Account>
+<Account>
+<AccountID>2000</AccountID>
+<AccountDescription>Atsargos</AccountDescription>
+<OpeningDebitBalance>20</OpeningDebitBalance>
+<OpeningCreditBalance>0</OpeningCreditBalance>
+<ClosingDebitBalance>40</ClosingDebitBalance>
+<ClosingCreditBalance>0</ClosingCreditBalance>
+</Account>
+</GeneralLedgerAccounts>
+</MasterFiles>
+</AuditFile>

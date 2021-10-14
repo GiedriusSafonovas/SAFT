@@ -1,0 +1,28 @@
+Root = /AuditFile/GeneralLedgerEntries/
+Write = /AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines
+File = MyTestFile.xml
+/AuditFile/GeneralLedgerEntries/Journals/Journal/JournalID
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Description
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Type
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/TransactionID
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Period
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/PeriodYear
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/TransactionDate
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Description
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/SystemEntryDate
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/GLPostingDate
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/CustomerID
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/SupplierID
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/SystemID
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines/Line/RecordID
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines/Line/AccountID
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines/Line/SourceDocumentID
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines/Line/CustomerID
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines/Line/SupplierID
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines/Line/Description
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines/Line/DebitAmount/Amount
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines/Line/DebitAmount/CurrencyCode
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines/Line/DebitAmount/CurrencyAmount
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines/Line/CreditAmount/Amount
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines/Line/CreditAmount/CurrencyCode
+/AuditFile/GeneralLedgerEntries/Journals/Journal/Transactions/Transaction/Lines/Line/CreditAmount/CurrencyAmount
